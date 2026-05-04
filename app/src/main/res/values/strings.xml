@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Tortoise Security</string>
+
+    <string name="accessibility_service_label">Tortoise Security</string>
+    <!--    <string name="accessibility_service_description">-->
+    <!--        Tortoise Security monitors which apps are opened on this device so a-->
+    <!--        parent can keep their child safe. No passwords, messages, or personal-->
+    <!--        data are ever read.-->
+    <!--    </string>-->
+    <string name="accessibility_description">Tortoise Security needs this to monitor app usage and protect the device.</string>
+    <string name="accessibility_service_summary">Watches for app launches to enforce parental rules.</string>
 </resources>
