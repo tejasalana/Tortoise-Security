@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "900409861680",
+    "firebase_url": "https://fir-testing-73852-default-rtdb.firebaseio.com",
+    "project_id": "fir-testing-73852",
+    "storage_bucket": "fir-testing-73852.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900409861680:android:958195168d7dbd16c4aff5",
+        "android_client_info": {
+          "package_name": "com.example.firebasetesting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2_ps3Le0n27arP8fGYJkR_2TMC78q-Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-3851267476308844~8164929819"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900409861680:android:b440da1b533100e5c4aff5",
+        "android_client_info": {
+          "package_name": "com.skylinestudio.potracker.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2_ps3Le0n27arP8fGYJkR_2TMC78q-Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900409861680:android:c6061d6920077ad4c4aff5",
+        "android_client_info": {
+          "package_name": "com.skylinestudio.security"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2_ps3Le0n27arP8fGYJkR_2TMC78q-Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

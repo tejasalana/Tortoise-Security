@@ -149,7 +149,7 @@ class MainMonitoringService : Service() {
         return NotificationCompat.Builder(this, CHANNEL_ID)
             .setContentTitle("Tortoise Security Active")
             .setContentText("Monitoring system for safety")
-            .setSmallIcon(R.drawable.ic_dialog_info)
+//            .setSmallIcon(R.drawable.ic_dialog_info)
             .setContentIntent(tapIntent)
             .setOngoing(true)
             .setSilent(true)
